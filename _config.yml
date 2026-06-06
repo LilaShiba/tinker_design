@@ -1,6 +1,5 @@
 description: ✨ Lila-Josey ✨.
-theme: minima
-
+theme: minimal-mistakes-jekyll
 url: "https://lilaShiba.github.io"
 
 markdown: kramdown
