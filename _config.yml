@@ -1,5 +1,9 @@
-description: ✨ Lila-Josey ✨.
-theme: minimal-mistakes-jekyll
+description: ✨ Design ✨.
+title: Tinker cad
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
+  
 url: "https://lilaShiba.github.io"
 
 markdown: kramdown
